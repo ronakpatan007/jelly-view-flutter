@@ -1,7 +1,7 @@
 
 # Jelly
-Created using custom painter.  
-![N|Solid](demo.gif)
+Created using custom painter.
+
 
 ### Description
 With help of Bezier curve, created shape from path like Jelly and with animation, made effect like animation. Parameters used in custom painter are configurable.
@@ -23,5 +23,5 @@ With help of Bezier curve, created shape from path like Jelly and with animation
 
 # LICENSE!
 Jelly is [MIT-licensed](/LICENSE).
-      
+
 # jelly-view-flutter
