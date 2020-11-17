@@ -2,7 +2,7 @@
 # Jelly
 Created using custom painter.
 
-[logo]: https://github.com/ronakpatan007/jelly-view-flutter/blob/master/demo.gif"Jelly View Flutter"
+        ![](https://github.com/ronakpatan007/jelly-view-flutter/blob/master/demo.gif) 
 
 
 ### Description
