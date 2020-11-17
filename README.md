@@ -2,6 +2,8 @@
 # Jelly
 Created using custom painter.
 
+[logo]: https://github.com/ronakpatan007/jelly-view-flutter/blob/master/demo.gif"Jelly View Flutter"
+
 
 ### Description
 With help of Bezier curve, created shape from path like Jelly and with animation, made effect like animation. Parameters used in custom painter are configurable.
